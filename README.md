@@ -35,7 +35,7 @@ npm install
 npm run dev
 ```
 
-- Live Site Link: 
+- Live Site Link: https://funny-alfajores-e399f1.netlify.app/#home
 
 ---
 
